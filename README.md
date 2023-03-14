@@ -1,4 +1,5 @@
 # For Using
+run npm install
 For Testing my Application clone the repository and go to the "settings.js" file.
 There you have to paste your Alchemy Private Key into the settings.
 Then run npm start and you will be able to use the application.

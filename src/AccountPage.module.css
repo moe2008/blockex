@@ -1,0 +1,28 @@
+.AccountPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;    
+    gap: 1rem;
+}
+
+.AccountPage > input {
+    width: 30%;
+    height: 1.8rem;
+}
+
+.AccountPage > button {
+    background-color: teal;
+    color: aliceblue;
+    border: none;
+    height: 1.8rem;
+    width: 12rem;
+    border-radius: 6px;
+}
+
+.balance {
+    background-color: teal;
+    color: aliceblue;
+    padding: 1rem;
+}

@@ -1,7 +1,7 @@
 import { Network } from "alchemy-sdk";
 
 const settings = {
-  apiKey: "YOUR_ALCHEMY_API_KEY",
+  apiKey: "Your-API-Key",
   network: Network.ETH_GOERLI,
 };
 

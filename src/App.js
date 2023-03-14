@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
-import Navbar from "./Navbar";
+import Navbar from "./Components/Navbar";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import AccountPage from "./AccountPage";
-import Home from "./Home";
+import AccountPage from "./Components/AccountPage";
+import Home from "./Components/Home";
 
 
 function App() {

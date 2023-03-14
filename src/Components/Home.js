@@ -1,8 +1,8 @@
 import React from "react";
 import { Alchemy } from "alchemy-sdk";
 import { useEffect, useState, useReducer } from "react";
-import { transactionReducer } from "./transactionReducer";
-import settings from "./settings";
+import { transactionReducer } from "../transactionReducer";
+import settings from "../settings";
 
 const alchemy = new Alchemy(settings);
 

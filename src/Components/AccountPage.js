@@ -2,7 +2,7 @@ import { Alchemy } from "alchemy-sdk";
 import { useState } from "react";
 import React from "react";
 import classes from "./AccountPage.module.css";
-import settings from "./settings";
+import settings from "../settings";
 
 
 const alchemy = new Alchemy(settings);
